@@ -3,4 +3,6 @@
 + onion
 + salt
 + 2 limes
-
++ olive oil
++ garlic
++ cayenne pepper
