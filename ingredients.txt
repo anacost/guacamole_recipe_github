@@ -2,4 +2,4 @@ avocado
 onion
 salt
 tomato
-lemon
+lemon juice
